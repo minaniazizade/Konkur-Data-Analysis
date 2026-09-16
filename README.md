@@ -43,35 +43,7 @@ The project also includes an interactive Streamlit dashboard for exploring and p
 
 ---
 
-📊 Data Analysis
-
-The project includes several stages of data analysis, including:
-
-Data Exploration
-
-- Dataset structure
-- Data types
-- Missing values
-- Descriptive statistics
-
-Correlation Analysis
-
-The relationships between numerical features are analyzed using correlation matrices and heatmaps.
-
-Admission Analysis
-
-Admission data is analyzed based on different fields of study, including Mathematics, Experimental Sciences, and Humanities.
-
-Ranking Analysis
-
-The relationship between national ranking and regional ranking is investigated to identify patterns in the admission data.
-
-Interactive Visualization
-
-Interactive visualizations are created using Plotly, including 3D charts for exploring relationships between multiple variables.
-
----
-
-🖥️ Streamlit Dashboard
+👑Streamlit Dashboard
 
 The project includes an interactive dashboard built with Streamlit, allowing users to explore the dataset and visualizations directly through a web interface.
+
