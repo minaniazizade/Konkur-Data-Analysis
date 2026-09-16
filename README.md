@@ -44,6 +44,12 @@ The project also includes an interactive Streamlit dashboard for exploring and p
 ---
 ![](https://github.com/minaniazizade/Konkur-Data-Analysis/blob/main/Images/2.png)
 ---
+![](https://github.com/minaniazizade/Konkur-Data-Analysis/blob/main/Images/4.png)
+---
+![](https://github.com/minaniazizade/Konkur-Data-Analysis/blob/main/Images/%D8%AA%D8%B5%D9%88%DB%8C%D8%B1%20%D8%B5%D9%81%D8%AD%D9%87%202026-09-16%20122307.png)
+---
+![](https://github.com/minaniazizade/Konkur-Data-Analysis/blob/main/Images/4.png)
+---
 ![](https://github.com/minaniazizade/Konkur-Data-Analysis/blob/main/Images/1.png)
 ---
 👑 Streamlit Dashboard
