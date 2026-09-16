@@ -55,7 +55,10 @@ The project also includes an interactive Streamlit dashboard for exploring and p
 ![](https://github.com/minaniazizade/Konkur-Data-Analysis/blob/main/Images/%D8%AA%D8%B5%D9%88%DB%8C%D8%B1%20%D8%B5%D9%81%D8%AD%D9%87%202026-09-16%20134654.png)
 
 ---
+## Author
 
--Author: Minaniazizade 
+Minaniazizade
+
 ---
--⭐️ if you like it please star my repository ⭐️
+
+⭐️ If you like this project, please give it a star! ⭐️
