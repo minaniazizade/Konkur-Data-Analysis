@@ -42,11 +42,10 @@ The project also includes an interactive Streamlit dashboard for exploring and p
 - Web-based dashboard for presenting analysis results
 
 ---
-![Data Table](images/1.png)
+![](https://github.com/minaniazizade/Konkur-Data-Analysis/blob/main/Images/2.png)
 ---
-![Data Table](images/2.png)
+![](https://github.com/minaniazizade/Konkur-Data-Analysis/blob/main/Images/1.png)
 ---
-
 👑 Streamlit Dashboard
 
 The project includes an interactive dashboard built with Streamlit, allowing users to explore the dataset and visualizations directly through a web interface.
