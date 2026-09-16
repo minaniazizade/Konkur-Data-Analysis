@@ -42,8 +42,12 @@ The project also includes an interactive Streamlit dashboard for exploring and p
 - Web-based dashboard for presenting analysis results
 
 ---
+![Data Table](images/1.png)
+---
+![Data Table](images/2.png)
+---
 
-👑Streamlit Dashboard
+👑 Streamlit Dashboard
 
 The project includes an interactive dashboard built with Streamlit, allowing users to explore the dataset and visualizations directly through a web interface.
 
